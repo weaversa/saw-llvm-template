@@ -1,0 +1,3 @@
+[submodule "BLST-Verification"]
+	path = BLST-Verification
+	url = https://github.com/GaloisInc/BLST-Verification.git
